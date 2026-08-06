@@ -39,5 +39,3 @@ struct APIConfig:Decodable {
         }
     }
 }
-
-//    "youtubeAPIKey":"AIzaSyC7YFalHP2-eetIgTdjsbj567osCe92Rug",
